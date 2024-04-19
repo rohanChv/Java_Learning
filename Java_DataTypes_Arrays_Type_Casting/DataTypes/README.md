@@ -2,7 +2,7 @@
 Hello ! I have started Learning Java.(Again ...)
 First we are learning about the Data Types
 We need the primitive data types to Store the data as per the type of variable. This is needed as Java is strongly typed Language
-there are 8 primitive types of data
+there are 8 primitive data types
 
 ## <u>Integer Type :</u> 
 
