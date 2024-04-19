@@ -13,7 +13,7 @@ public class JavaDataTypes {
         boolean booleanDataType=false;// Single bit
         char characterDataType=76;//char is 16 bit data type represents characters.
 
-        System.out.println("Hello ! I have started Learning Java.(Again ...");
+        System.out.println("Hello ! I have started Learning Java.(Again ...)");
         System.out.println("First we are learning about the Data Types");
         System.out.println("We need the primitive data types to Store the data as per the type of variable. This is needed as Java is strongly typed Language");
         System.out.println("there are 8 primitive types of data");
